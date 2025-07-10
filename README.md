@@ -100,8 +100,8 @@ A powerful backend API for a collaborative partner-finding platform. This Spring
 ## 📘 API Documentation (Swagger)
 
 * Swagger UI: [https://partnerfinder.onrender.com/swagger-ui/index.html](https://partnerfinder.onrender.com/swagger-ui/index.html)
-```bash
-  Explore and test all endpoints with role-specific access in a visual interface.
+```
+Explore and test all endpoints with role-specific access in a visual interface.
 ```
 
 ## 🔍 API Flow Diagram
@@ -113,11 +113,9 @@ A powerful backend API for a collaborative partner-finding platform. This Spring
 ** Receives JWT Token **
       ** ↓
 ** Access endpoints based on roles: **
-```bash
  - POSTER → `/dashboard/poster, /api/posters/**`
  - COLLABORATOR → `/dashboard/user, /api/users/**`
  - ADMIN → `/dashboard/admin, /api/admin/**`
-```
 ```
 ## 🛠 Technologies
 
