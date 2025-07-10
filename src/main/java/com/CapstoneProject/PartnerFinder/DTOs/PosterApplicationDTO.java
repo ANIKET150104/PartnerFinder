@@ -1,10 +1,9 @@
 package com.CapstoneProject.PartnerFinder.DTOs;
 
-import lombok.AllArgsConstructor;
+
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
-@AllArgsConstructor
 public class PosterApplicationDTO {
 
 	private String departmentName;
