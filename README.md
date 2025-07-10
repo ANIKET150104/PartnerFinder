@@ -100,9 +100,8 @@ A powerful backend API for a collaborative partner-finding platform. This Spring
 ## 📘 API Documentation (Swagger)
 
 * Swagger UI: [https://partnerfinder.onrender.com/swagger-ui/index.html](https://partnerfinder.onrender.com/swagger-ui/index.html)
-```
+  
 Explore and test all endpoints with role-specific access in a visual interface.
-```
 
 ## 🔍 API Flow Diagram
 ```bash
