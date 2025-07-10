@@ -106,13 +106,13 @@ Explore and test all endpoints with role-specific access in a visual interface.
 
 ## 🔍 API Flow Diagram
 ```bash
-** USER / POSTER / ADMIN **
-      ** ↓
-** Register/Login (/api/auth/*) **
-      ** ↓
-** Receives JWT Token **
-      ** ↓
-** Access endpoints based on roles: **
+   USER / POSTER / ADMIN
+            ↓
+  Register/Login (/api/auth/*)
+            ↓
+    Receives JWT Token
+            ↓
+ Access endpoints based on roles:
  - POSTER → `/dashboard/poster, /api/posters/**`
  - COLLABORATOR → `/dashboard/user, /api/users/**`
  - ADMIN → `/dashboard/admin, /api/admin/**`
