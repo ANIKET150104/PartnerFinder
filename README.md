@@ -1,4 +1,4 @@
-# PartnerFinder Backend API
+# PartnerFinder-Backend API
 
 A powerful backend API for a collaborative partner-finding platform. This Spring Boot application enables authentication, role-based access (POSTER, COLLABORATOR, ADMIN), project and profile management, and comment moderation. Built with MySQL, Spring Security, and JWT.
 
